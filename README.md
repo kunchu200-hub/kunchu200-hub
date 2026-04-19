@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**kunchu200-hub/kunchu200-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hatinandan 
+Currently a CS student 
+      
+Looking forward to sharing all project I have made
 
-Here are some ideas to get you started:
+I have alsoa differnt repo know as "CODING" where I post all the codes I ahve made.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___________________________________________________________________________________________
+Fun Facts:
+- Love Anime
+- Enjoy coding
+- I can sketch ( I am  an artist. Nah, just joking)
+-  And I am great at problem solving
+-  And love building stuff ( like in desgning, coding, web developing
+____________________________________________________________________________________________
