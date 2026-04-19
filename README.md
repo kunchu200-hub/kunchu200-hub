@@ -6,7 +6,7 @@ Currently a CS student
       
 Looking forward to sharing all project I have made
 
-I have alsoa differnt repo know as "CODING" where I post all the codes I ahve made.
+I have a differnt repo know as "CODING" where I post all the codes and the projects, I have made.
 
 ___________________________________________________________________________________________
 Fun Facts:
