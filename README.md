@@ -13,5 +13,6 @@ Fun Facts:
 - Enjoy coding
 - I can sketch ( I am  an artist. Nah, just joking)
 -  And I am great at problem solving
--  And love building stuff ( like in desgning, coding, web developing
+-  Love building stuff ( like in desgning, coding, web developing)
+-  And a future gaming streamer (hopefully)
 ____________________________________________________________________________________________
